@@ -22,17 +22,17 @@
 
 ## 三、运行截图
 + 1.开始界面没有具体设计，但加个开始界面也很简单，为了去了解更多的计算机知识，在此省略
-<a href = "https://github.com/FindADog/Python/blob/master/TankWar/photo/%E7%95%8C%E9%9D%A2.PNG"></a>
+<img src = "https://github.com/FindADog/Python/blob/master/TankWar/photo/%E7%95%8C%E9%9D%A2.PNG">
 + 2.操作控制，按w，s,a,d 进行上下左右控制
-<a href = "https://github.com/FindADog/Python/blob/master/TankWar/photo/%E4%B8%8A%E4%B8%8B%E7%A7%BB%E5%8A%A8.PNG"></a>
+<img src = "https://github.com/FindADog/Python/blob/master/TankWar/photo/%E4%B8%8A%E4%B8%8B%E7%A7%BB%E5%8A%A8.PNG"></a>
 + 3.M键生成敌机
-<a href = "https://github.com/FindADog/Python/blob/master/TankWar/photo/%E7%94%9F%E6%88%90%E6%95%8C%E6%9C%BA.PNG"></a>
+<img src = "https://github.com/FindADog/Python/blob/master/TankWar/photo/%E7%94%9F%E6%88%90%E6%95%8C%E6%9C%BA.PNG"></a>
 + 4.F键发射子弹
-<a href = "https://github.com/FindADog/Python/blob/master/TankWar/photo/%E7%94%9F%E6%88%90%E6%95%8C%E6%9C%BA.PNG"></a>
+<img src = "https://github.com/FindADog/Python/blob/master/TankWar/photo/%E7%94%9F%E6%88%90%E6%95%8C%E6%9C%BA.PNG"></a>
 + 5.最后皮了一下，借用了马老师的图片和语音来进行我方坦克的死亡画面
-<a href = "https://github.com/FindADog/Python/blob/master/TankWar/photo/%E6%AD%BB%E4%BA%A1%E7%94%BB%E9%9D%A2.PNG"></a>
+<img src = "https://github.com/FindADog/Python/blob/master/TankWar/photo/%E6%AD%BB%E4%BA%A1%E7%94%BB%E9%9D%A2.PNG"></a>
 + 6.文件结构图
-<a href = "https://github.com/FindADog/Python/blob/master/TankWar/photo/%E6%96%87%E4%BB%B6%E5%B8%83%E5%B1%80.PNG"></a>
+<img src = "https://github.com/FindADog/Python/blob/master/TankWar/photo/%E6%96%87%E4%BB%B6%E5%B8%83%E5%B1%80.PNG"></a>
 -----
 ## 四、原理讲解
 ***再次提醒：一定要关注官方文档！！！***
