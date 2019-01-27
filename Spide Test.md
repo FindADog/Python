@@ -5,7 +5,7 @@
 # 一.主要流程原理
 &#8195;采用Lock的生产者消费者模式（多线程）来爬取网页上的内容。
 主要流程如下图：
-<img src=""></img>
+<img src="https://github.com/FindADog/Python/blob/master/gtihub%E5%9B%BE%E7%89%87/%E6%B5%81%E7%A8%8B%E5%9B%BE.PNG"></img>
 
 # 二.实验环境
 &#8195;python3.5.4，pycharm
