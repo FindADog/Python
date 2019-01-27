@@ -142,7 +142,7 @@
                     
 
 # 五.效果截图
-<img src=""></img>
+<img src="https://github.com/FindADog/Python/blob/master/gtihub%E5%9B%BE%E7%89%87/%E6%AE%B5%E5%AD%90.PNG"></img>
 
 
 # 六.小结
