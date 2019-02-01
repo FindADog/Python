@@ -6,8 +6,8 @@
 <img src="https://github.com/FindADog/Python/blob/master/Gift/123.gif"></img>
 
 运行界面<br>
-<img src="https://github.com/FindADog/Python/blob/master/Gift/%E8%BF%90%E8%A1%8C.gif"></img>
-
+<img src="https://github.com/FindADog/Python/blob/master/Gift/%E8%BF%90%E8%A1%8C1.gif"></img>
+<img src="https://github.com/FindADog/Python/blob/master/Gift/%E8%BF%90%E8%A1%8C1.gif"></img>
 
 > 以下是制作过程，2个月前写的，细节记得不是很清了【文章所有的资料在下方有链接】：
 
