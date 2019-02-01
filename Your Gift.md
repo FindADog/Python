@@ -351,5 +351,5 @@
 ## 六.资料链接
 [点击此处查看下载代码压缩包(美女图片已删除，自行添加)](https://github.com/FindADog/Python/blob/master/Gift/Gift.rar)<br>
 [点击此处查看详细的我得pygame文章](https://github.com/FindADog/Python/blob/master/TankWar.md)<br>
-[pygame入门视频](https://ke.qq.com/course/359196)<br>
-[优质pyqt教程 v55a](https://pan.baidu.com/s/1L_5zVoPygLwFdpEqNYFYkQ)<br>
+[pygame入门视频 侵删](https://ke.qq.com/course/359196)<br>
+[优质pyqt教程 v55a 侵删](https://pan.baidu.com/s/1L_5zVoPygLwFdpEqNYFYkQ)<br>
